@@ -1,5 +1,3 @@
-# Create a README.md file summarizing the project
-readme_content = """\
 # Telecom Customer Churn Analysis 📉
 
 This project analyzes customer churn behavior using a telecom dataset to identify key factors influencing customer retention and churn. The goal is to uncover actionable insights through data visualization and statistical analysis.
